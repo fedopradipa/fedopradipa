@@ -1,7 +1,10 @@
 <!-- GitHub Profile README for github.com/fedopradipa -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:8B1E3F&height=185&section=header&text=Hi,%20I'm%20Fedo%20Orvala%20Pradipa&fontSize=34&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%7C%20Backend%20%26%20Data%20Analytics&descSize=17&descAlignY=61&descColor=F2C66D" alt="Fedo Orvala Pradipa - GitHub profile banner" />
+  <!-- GitHub Profile README for github.com/fedopradipa -->
+
+<div align="center">
+  <img width="100%" src="./assets/banner.svg" alt="Fedo Orvala Pradipa - GitHub profile banner" />
 </div>
 
 ## About Me
@@ -39,5 +42,5 @@ I enjoy learning new technologies, improving application architecture, and turni
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:8B1E3F&height=100&section=footer" alt="Decorative footer" />
+  <img width="100%" src="./assets/footer.svg" alt="Decorative footer" />
 </div>

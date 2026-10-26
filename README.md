@@ -13,14 +13,15 @@ I'm **Fedo Orvala Pradipa**, a developer interested in building web applications
 
 I enjoy learning new technologies, improving application architecture, and turning practical problems into useful software.
 
-<div align="center">
-  <a href="https://github.com/fedopradipa">
-    <img src="https://komarev.com/ghpvc/?username=fedopradipa&color=8B1E3F&label=Profile%20Views" alt="Profile views" />
-  </a>
-  <a href="https://github.com/fedopradipa?tab=followers">
-    <img src="https://img.shields.io/github/followers/fedopradipa?label=GitHub%20Followers&style=flat&color=8B1E3F" alt="GitHub followers" />
-  </a>
-</div>
+
+[![Instagram](https://img.shields.io/badge/-@fedo__pradipa-c026d3?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fedo_pradipa)
+
+[![LinkedIn](https://img.shields.io/badge/-Fedo%20Orvala%20Pradipa-0284c7?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedo-orvala-pradipa-543631266)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fedopradipa&color=blue&label=Profile%20Views)](https://github.com/fedopradipa)
+
+[![GitHub Followers](https://img.shields.io/github/followers/fedopradipa?label=GitHub%20Followers)](https://github.com/fedopradipa?tab=followers)
+
 ### Core Tech Stacks
 
 <p>

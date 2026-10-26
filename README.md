@@ -37,27 +37,6 @@ I enjoy learning new technologies, improving application architecture, and turni
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" alt="VS Code, Git, GitHub, and Postman" />
 </p>
 
-### Featured Projects
-
-**[ZAKAT-HYBRID](https://github.com/fedopradipa/ZAKAT-HYBRID)**  
-A public project repository containing a Laravel application and smart contract components.
-
-**Product Sales Segmentation & Forecasting**  
-A web-based analytics project using **K-Means clustering** for product segmentation and **Brown's Double Exponential Smoothing** for sales forecasting. Built around **Laravel, MySQL, and Python-based analytics**.
-
-<!-- Optional: add a link to the sales analytics repository after publishing it. -->
-
-### GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fedopradipa&show_icons=true&theme=radical&hide_border=true" alt="Fedo's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedopradipa&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Most used languages in public GitHub repositories" />
-</div>
-
-<!-- To add contact links, replace the sample placeholders below with your own public profiles.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:8B1E3F&height=100&section=footer" alt="Decorative footer" />

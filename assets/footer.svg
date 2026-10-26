@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="115" viewBox="0 0 1200 115" role="img" aria-label="Maroon wave footer">
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#260000"/>
+      <stop offset="100%" stop-color="#a80015"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 41 C225 0 386 62 607 35 C855 3 1006 65 1200 25 V115 H0 Z" fill="url(#red)"/>
+</svg>

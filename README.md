@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**fedopradipa/fedopradipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Fedo Orvala Pradipa
 
-Here are some ideas to get you started:
+### Aspiring Backend Engineer | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Computer Science graduate with a strong interest in backend development and software engineering.
+
+I have experience developing web applications using Laravel, PHP, and MySQL. Currently, I'm learning Golang to expand my backend development skills.
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,go" />
+
+## Featured Projects
+
+- Hybrid Inpatient Medical Records System (Laravel & Blockchain)
+- Equipment Management System (Laravel)
+- UMKM Website (Laravel)
+
+## Currently Learning
+
+- Golang
+- REST API Development
+- Backend Architecture

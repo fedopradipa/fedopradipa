@@ -21,7 +21,6 @@ I enjoy learning new technologies, improving application architecture, and turni
     <img src="https://img.shields.io/github/followers/fedopradipa?label=GitHub%20Followers&style=flat&color=8B1E3F" alt="GitHub followers" />
   </a>
 </div>
-
 ### Core Tech Stacks
 
 <p>
